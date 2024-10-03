@@ -31,7 +31,6 @@ artifacts:
     - dist/**/*
     - package.json
     - node_modules/**/*
-    - .platform/**/*
     - index.html
     - app.js
     - cron.yml

@@ -30,6 +30,7 @@ artifacts:
   files:
     - dist/**/*
     - package.json
+    - .platform/**/*
     - node_modules/**/*
     - index.html
     - app.js

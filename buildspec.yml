@@ -19,9 +19,7 @@ phases:
       # Build your app
       - echo Build started on `date`
       - echo Compiling the Node.js code
-      - npm run build
-      ## Clean up node_modules to keep only production dependencies
-      # - npm prune --production
+
 
   ## post_build: finishing touches
   post_build:
